@@ -1,14 +1,9 @@
 # Project 5
 
-## Freature
-
-In this project I have made a Crypto landing page where all the details given in navbar menu section.
-
 ## Lesson Learned
-
-
-In this project I learnt how to draw vertical line in css , hover effect and also about text-align.
+In this project I learnt how to draw vertical line in css ,hover effect on navigation menu and text-align properties as well.
 
 ## Time Taken
 
-I have completed this project in 1.5 hours.
+It took 2 hours to complete this project.
+![project5](./project5-img.png)
